@@ -1,8 +1,3 @@
-# ML.AI.CLASSIFICATION.PimaIndianDiabetes
-Repo to store the open source projects done to learn AI and ML
-
-# Diabetes Prediction Model/Algorithm 
-
 # Diabetes Prediction Model/Algorithm 
 
 [Nagendhar Reddy Vuppunuthula]
