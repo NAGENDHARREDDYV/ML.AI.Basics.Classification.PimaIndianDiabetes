@@ -7,6 +7,7 @@ Repo to store the open source projects done to learn AI and ML
 
 [Nagendhar Reddy Vuppunuthula]
 reddy.vuppunuthula@gmail.com
+
 Our solution statement :
 
 "Use the ML workflow to process and transform PIMA indian diabetes data to create a prediciton model". This model must predict which people are likely to develop diabetes with 70% or greater accuracy.
